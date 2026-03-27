@@ -1,0 +1,18 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" rx="12" fill="#1e1e1e"/>
+  <rect width="800" height="35" rx="12" fill="#333333"/>
+  <circle cx="20" cy="17.5" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="17.5" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="17.5" r="6" fill="#27c93f"/>
+  <text x="400" y="22" font-family="monospace" font-size="14" fill="#ccc" text-anchor="middle">anand@ubuntu: ~/oss-audit/02_pkg_inspector.sh</text>
+  
+  <text x="20" y="70" font-family="monospace" font-size="16" fill="#fff">
+    <tspan x="20" dy="1.2em" fill="#00ff00">anand@ubuntu:~/oss-audit$</tspan> ./02_pkg_inspector.sh python3
+    <tspan x="20" dy="1.5em">--- FOSS Package Inspector: python3 ---</tspan>
+    <tspan x="20" dy="1.2em" fill="#27c93f">[FOUND] python3 is installed. Version: 3.10.12</tspan>
+    <tspan x="20" dy="1.5em" fill="#555">----------------------------------------------------------</tspan>
+    <tspan x="20" dy="1.2em">Philosophy Note for Audit Core Packages:</tspan>
+    <tspan x="20" dy="1.2em" fill="#ffa500">Nature: The swiss-army knife of AI, ML, and FastAPI backend development.</tspan>
+    <tspan x="20" dy="1.2em" fill="#555">----------------------------------------------------------</tspan>
+  </text>
+</svg>

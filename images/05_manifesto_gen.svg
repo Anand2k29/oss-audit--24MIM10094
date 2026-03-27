@@ -1,0 +1,22 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" rx="12" fill="#1e1e1e"/>
+  <rect width="800" height="35" rx="12" fill="#333333"/>
+  <circle cx="20" cy="17.5" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="17.5" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="17.5" r="6" fill="#27c93f"/>
+  <text x="400" y="22" font-family="monospace" font-size="14" fill="#ccc" text-anchor="middle">anand@ubuntu: ~/oss-audit/05_manifesto_gen.sh</text>
+  
+  <text x="20" y="70" font-family="monospace" font-size="16" fill="#fff">
+    <tspan x="20" dy="1.2em" fill="#00ff00">anand@ubuntu:~/oss-audit$</tspan> ./05_manifesto_gen.sh
+    <tspan x="20" dy="1.5em">What is your developer alias? Alias: Anand</tspan>
+    <tspan x="20" dy="1.2em">Tabs or Spaces? Preference: Spaces</tspan>
+    <tspan x="20" dy="1.2em">Name one open-source Python library Library: FastAPI</tspan>
+    <tspan x="20" dy="1.5em" fill="#27c93f">--- YOUR MANIFESTO HAS BEEN GENERATED ---</tspan>
+    <tspan x="20" dy="1.2em">Saved to: manifesto_Anand.txt</tspan>
+    <tspan x="20" dy="1.2em" fill="#555">----------------------------------------------------------</tspan>
+    <tspan x="20" dy="1.2em" fill="#fff">I, Anand, believe in an open-web future built on transparency</tspan>
+    <tspan x="20" dy="1.2em">and collaboration. My source code reflects my dedication to</tspan>
+    <tspan x="20" dy="1.2em">precision, favoring Spaces to organize complex logic...</tspan>
+    <tspan x="20" dy="1.5em" fill="#ffa500">Happy Hacking, Anand!</tspan>
+  </text>
+</svg>
