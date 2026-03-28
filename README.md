@@ -15,19 +15,19 @@ This repository contains a collection of Bash scripts developed for the "Open So
 ## 📸 Script Outputs
 
 ### 01_sys_identity.sh
-![System Identity](images/01_sys_identity.svg)
+![System Identity](images/ss1.png)
 
 ### 02_pkg_inspector.sh
-![Package Inspector](images/02_pkg_inspector.svg)
+![Package Inspector](images/ss2.png)
 
 ### 03_dir_audit.sh
-![Directory Audit](images/03_dir_audit.svg)
+![Directory Audit](images/ss3.png)
 
 ### 04_log_analyzer.sh
-![Log Analyzer](images/04_log_analyzer.svg)
+![Log Analyzer](images/ss4.png)
 
 ### 05_manifesto_gen.sh
-![Manifesto Generator](images/05_manifesto_gen.svg)
+![Manifesto Generator](images/ss5.png)
 
 ## Installation & Usage
 
